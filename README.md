@@ -1,7 +1,7 @@
 # ECE143 Project for 2019 Fall
-Data Analysis of Job in Amazon, Facebook and Google
+
 # Team
-Group 1: Bo Chen, Hafiza Rauf, Shuai Hao, Srishty Dua, Yening Dong\
+Group 1: Bo Chen, Hafiza Rauf, Shuai Hao, Srishty Dua, Yening Dong
 # Topic
 Data Analysis of Job in Amazon, Facebook and Google
 # Dataset
@@ -11,7 +11,7 @@ https://www.amazon.jobs/en​
 
 https://www.facebook.com/careers/
 
-The entire dataset contains 5 csv files and 5 json files(for 5 different countries), including various kind of information like video titles, channels, video categories, publish time, number of views, number of likes and dislikes, etc.
+The entire dataset contains 3 csv files scrapped from the above websites, including various kind of information like video titles, channels, video categories, publish time, number of views, number of likes and dislikes, etc.
 Proposal
 Problem:
 Analyze the trending videos information from the YouTube
@@ -25,31 +25,11 @@ Firstly, we count the number of trending videos of different types at different 
 Visualization:
 Please see file Data-Analysis-of-Trending-Youtube-Videos.ipynb here.
 
-Packages:
-1. seaborn
-Official website here
-Installation:
-# for python 2.x
-pip install seaborn
-
-# for python 3.x
-pip3 install seaborn
-2. numpy
-Official website here
-Installation:
-# for python 2.x
-pip install numpy
-
-# for python 3.x
-pip3 install numpy
-3. pandas
-Official website here
-Installation:
-# for python 2.x
-pip install pandas
-
-# for python 3.x
-pip3 install pandas
-Modules:
-pyplot from matplotlib
-json
+# Packages:
+Beautiful Soup
+Selenium
+re
+pandas
+Matplotlib
+Plotly
+Seaborn
