@@ -78,12 +78,16 @@ Please see file Data-Analysis-of-Trending-Youtube-Videos.ipynb here.
 7.Seaborn
 ```
 
-For installing these packages, you can use either pip3 to install packages. For example,
+For installing these packages, you can use either ```pip3``` to install packages. 
+
+Take ```Numpy``` for example,
 ```
 pip3 install numpy
 ```
 
 ## How to run code
 * Python version: Python 3.6.6 64-bit
-1. Run the ```main.py``` to generate all the data from raw txt files in ```industry_data``` and ```raw_data```  
-2. Run the ```Plot_Extent_of_overlap.py```, ```Plot_radar_chart.py```, ```Plot_ucsd_ece.py``` etc. to get the graphs.
+1. Run the ```amazonfinal copy (1).py``` , ```facebook final copy.py``` and ```google final copy.py``` to scrape all the data from the companies' websites.
+2. Run the different .py files to create the corresponding categories' graphs. 
+
+Take 'Location' for example, find the Location files, then run the ```google_location.py``` , ```amazon_location.py``` and ```facebook_location.py``` to create the location graphs respectively.
