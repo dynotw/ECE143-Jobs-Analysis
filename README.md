@@ -23,7 +23,7 @@ Firstly, we scrape the dataset from the companies' career centers. Then we clean
 
 ## File Structure
 In each .csv files, there are different categories of data, so we assign the tasks to each group members, in terms of categories. Our file structure is divided by data categories.
-
+```
 Root
 |
 +----Data Scraper
@@ -60,15 +60,8 @@ Root
 |
 |
 |    README.md
-|    analyse_data.py
-|    analyse_data_department_only.py
-|    Plot_Extent_of_overlap.py
-|    Plot_radar_chart.py
-|    Plot_ucsd_cse.py
-|    Plot_ucsd_ece.py
-|    Plot_department.py
-|    merge_industry.py
-|    Notebook_for_overview.ipynb
+|
+```
 Visualization:
 Please see file Data-Analysis-of-Trending-Youtube-Videos.ipynb here.
 
