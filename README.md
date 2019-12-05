@@ -59,6 +59,7 @@ Root
 |       |   facebook_job_graph.py
 |       |   experience_years_of_3_companies.py
 |       |   summary.py
+|       |   no_technical skill wordcloud.py
 |
 |
 |    README.md
