@@ -18,9 +18,37 @@ Nowadays, an increasing number of people want to find a job in top IT comapnies 
 ### Meaning:
 We will analyse different aspects from the job, like job category, location, posting date, job qualification and so on. Accoding to the results, we will give people some tips, which the popular job is, which the popular location is, when people should seek jobs, which qualification is important and so on.
 
-### Pan:
+### Plan:
 Firstly, we scrape the dataset from the companies' career centers. Then we clean and extract useful data from the dataset. Next we analyse these data by information categories, and use the most effective graphs to visualize the results. Finally, we prepare for the presentation.
 
+## File Structure
+In each .csv files, there are different categories of data, so we assign the tasks to each group members, in terms of categories. Our file structure is divided by data categories.
+
+Root
+|
++----raw_data
+|
++----industry_data
+|
++----processed_data
+|
++----scripts
+|       |   create_processed_data.py
+|       |   word_freq.py
+|       |   SQLite.py
+|       |   common_words.txt
+|       |   Industry_words.txt
+|
+|    main.py
+|    analyse_data.py
+|    analyse_data_department_only.py
+|    Plot_Extent_of_overlap.py
+|    Plot_radar_chart.py
+|    Plot_ucsd_cse.py
+|    Plot_ucsd_ece.py
+|    Plot_department.py
+|    merge_industry.py
+|    Notebook_for_overview.ipynb
 Visualization:
 Please see file Data-Analysis-of-Trending-Youtube-Videos.ipynb here.
 
