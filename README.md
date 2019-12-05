@@ -27,9 +27,15 @@ Please see file Data-Analysis-of-Trending-Youtube-Videos.ipynb here.
 
 # Packages:
 Beautiful Soup
+
 Selenium
+
 re
+
 pandas
+
 Matplotlib
+
 Plotly
+
 Seaborn
