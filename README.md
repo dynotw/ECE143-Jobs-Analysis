@@ -26,20 +26,40 @@ In each .csv files, there are different categories of data, so we assign the tas
 
 Root
 |
-+----raw_data
++----Data Scraper
+|       |   README.md
+|       |   amazonfinal copy (1).py
+|       |   facebook final copy.py
+|       |   google final copy.py
 |
-+----industry_data
 |
-+----processed_data
++----Job Category
+|       |   README.md
+|       |   amazon_job_category.py
+|       |   facebook_job_category.py
+|       |   google_job_category.py
 |
-+----scripts
-|       |   create_processed_data.py
-|       |   word_freq.py
-|       |   SQLite.py
-|       |   common_words.txt
-|       |   Industry_words.txt
 |
-|    main.py
++----Location
+|       |   README.md
+|       |   amazon_Location.py
+|       |   facebook_location.py
+|       |   google_location.py
+|
+|
++----Major_Degree_Experience_Language_WordCloud
+|       |   README.md
+|       |   amazon.py
+|       |   amazon_job_graph.py
+|       |   google.py
+|       |   google_job_graph.py
+|       |   facebook.py
+|       |   facebook_job_graph.py
+|       |   experience_years_of_3_companies.py
+|       |   summary.py
+|
+|
+|    README.md
 |    analyse_data.py
 |    analyse_data_department_only.py
 |    Plot_Extent_of_overlap.py
