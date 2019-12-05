@@ -87,7 +87,8 @@ pip3 install numpy
 
 ## How to run code
 * Python version: Python 3.6.6 64-bit
-1. Run the ```amazonfinal copy (1).py``` , ```facebook final copy.py``` and ```google final copy.py``` to scrape all the data from the companies' websites.
-2. Run the different .py files to create the corresponding categories' graphs. 
+1. Install all the above third libraries. 
+2. Run the ```amazonfinal copy (1).py``` , ```facebook final copy.py``` and ```google final copy.py``` to scrape all the data from the companies' websites.
+3. Run the different .py files to create the corresponding categories' graphs. 
 
 Take 'Location' for example, find the Location files, then run the ```google_location.py``` , ```amazon_location.py``` and ```facebook_location.py``` to create the location graphs respectively.
