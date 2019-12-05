@@ -65,17 +65,15 @@ Root
 Visualization:
 Please see file Data-Analysis-of-Trending-Youtube-Videos.ipynb here.
 
-# Packages:
+## Packages:
+```
 1.Beautiful Soup
-
 2.Selenium
-
 3.re
-
 4.pandas
-
 5.Matplotlib
-
 6.Plotly
-
 7.Seaborn
+```
+
+## How to run code
