@@ -3,7 +3,7 @@
 Group 1: Bo Chen, Hafiza Rauf, Shuai Hao, Srishty Dua, Yening Dong
 
 ## Topic
-Data Analysis of Job in Amazon, Facebook and Google
+Data Analysis of Jobs in Amazon, Facebook and Google
 
 ### Dataset:
 https://careers.google.com/
