@@ -7,7 +7,9 @@ Data Analysis of Job in Amazon, Facebook and Google
 
 ### Dataset:
 https://careers.google.com/
+
 https://www.amazon.jobs/en
+
 https://www.facebook.com/careers/
 
 The entire dataset contains 3 csv files scrapped from the above websites, including kinds of information like Company, Location, Job Tittle, Job Category, Date, Job Description, Job Basic Qualifications, Job Preferrd Qualification etc.
@@ -76,4 +78,12 @@ Please see file Data-Analysis-of-Trending-Youtube-Videos.ipynb here.
 7.Seaborn
 ```
 
+For installing these packages, you can use either pip3 to install packages. For example,
+```
+pip3 install numpy
+```
+
 ## How to run code
+* Python version: Python 3.6.6 64-bit
+1. Run the ```main.py``` to generate all the data from raw txt files in ```industry_data``` and ```raw_data```  
+2. Run the ```Plot_Extent_of_overlap.py```, ```Plot_radar_chart.py```, ```Plot_ucsd_ece.py``` etc. to get the graphs.
