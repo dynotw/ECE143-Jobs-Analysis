@@ -1,5 +1,5 @@
 # ECE143 Project for 2019 Fall
-Data Analysis of Job in Amazon, Facebook and Google 
+Data Analysis of Job in Amazon, Facebook and Google
 Group 1: Bo Chen, Hafiza Rauf, Shuai Hao, Srishty Dua, Yening Dong 
 Dataset
 Trending YouTube Video Statistics: https://www.kaggle.com/datasnaek/youtube-new/home
