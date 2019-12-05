@@ -64,8 +64,6 @@ Root
 |    README.md
 |
 ```
-Visualization:
-Please see file Data-Analysis-of-Trending-Youtube-Videos.ipynb here.
 
 ## Packages:
 ```
