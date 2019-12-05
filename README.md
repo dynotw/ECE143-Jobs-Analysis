@@ -1,9 +1,6 @@
-# ECE143Project
-Job of FAG
-Data-Analysis-of-Trending-Youtube-Videos
-Project for ECE 143 Fall 2018
-Group 13: Jialun Lyu, Lin-Ying Cheng, Weihua Huang, Yiwei Zhang
-
+# ECE143 Project for 2019 Fall
+Data Analysis of Job in Amazon, Facebook and Google 
+Group 1: Bo Chen, Hafiza Rauf, Shuai Hao, Srishty Dua, Yening Dong 
 Dataset
 Trending YouTube Video Statistics: https://www.kaggle.com/datasnaek/youtube-new/home
 
