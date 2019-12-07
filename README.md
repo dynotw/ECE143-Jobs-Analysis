@@ -85,7 +85,7 @@ pip3 install numpy
 ```
 
 ## How to run code
-* Python version: Python 3.6.6 64-bit
+* Python version: Python 3.0+ 64-bit
 1. Install all the above third libraries. 
 2. Run the ```amazonfinal copy (1).py``` , ```facebook final copy.py``` and ```google final copy.py``` to scrape all the data from the companies' websites.
 3. Run the different .py files to create the corresponding categories' graphs. 
