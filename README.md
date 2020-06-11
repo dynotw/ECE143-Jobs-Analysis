@@ -1,7 +1,7 @@
 # ECE143 Project for 2019 Fall
 
 ## Topic
-Jobs Analysis
+Jobs in Amazon, Facebook and Google Data Analysis
 
 ## Team
 Group 1: Bo Chen, Hafiza Rauf, Shuai Hao, Srishty Dua, Yening Dong
